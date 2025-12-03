@@ -1,0 +1,25 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/gazi_tip_burger.jpg",
+      "targetUrl": "https://burgerking.com.tr",
+      "tags": ["gazi", "tip", "ogle_yemegi"],
+      "priority": 10
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/hacettepe_muh_kahve.jpg",
+      "targetUrl": "https://starbucks.com.tr",
+      "tags": ["hacettepe", "muhendislik", "beytepe"],
+      "priority": 5
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/genel_reklam.jpg",
+      "targetUrl": "https://getir.com",
+      "tags": ["global"],
+      "priority": 1
+    }
+  ]
+}
