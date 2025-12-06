@@ -1,25 +1,48 @@
 {
   "ads": [
     {
-      "id": "1",
-      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/gazi_tip_burger.jpg",
-      "targetUrl": "https://burgerking.com.tr",
-      "tags": ["gazi", "tip", "ogle_yemegi"],
-      "priority": 10
+      "id": "ad_101",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/gazi_burger.jpg",
+      "targetUrl": "https://www.burgerking.com.tr",
+      "priority": 100,
+      "targeting": {
+        "universities": ["gazi"],
+        "campuses": ["merkez", "besevler"],
+        "departments": ["tip", "dis"]
+      }
     },
     {
-      "id": "2",
-      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/hacettepe_muh_kahve.jpg",
-      "targetUrl": "https://starbucks.com.tr",
-      "tags": ["hacettepe", "muhendislik", "beytepe"],
-      "priority": 5
+      "id": "ad_102",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/python_kursu.jpg",
+      "targetUrl": "https://www.udemy.com/course/python-sifirdan-ileri-seviyeye",
+      "priority": 50,
+      "targeting": {
+        "universities": [],
+        "campuses": [],
+        "departments": ["muhendislik", "bilgisayar", "yazilim"]
+      }
     },
     {
-      "id": "3",
-      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/genel_reklam.jpg",
+      "id": "ad_103",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/hacettepe_kahve.jpg",
+      "targetUrl": "https://www.starbucks.com.tr",
+      "priority": 80,
+      "targeting": {
+        "universities": ["hacettepe"],
+        "campuses": ["beytepe"],
+        "departments": []
+      }
+    },
+    {
+      "id": "ad_999",
+      "imageUrl": "https://raw.githubusercontent.com/v63n-xn3-nc37-er2/hc37x-jnwm-mn3qu-z7-2s7/main/data/ads/images/getir_genel.jpg",
       "targetUrl": "https://getir.com",
-      "tags": ["global"],
-      "priority": 1
+      "priority": 10,
+      "targeting": {
+        "universities": [],
+        "campuses": [],
+        "departments": []
+      }
     }
   ]
 }
