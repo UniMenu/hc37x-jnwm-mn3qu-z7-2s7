@@ -3,37 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-11T03:54:39.507779+00:00",
-    "menuHash": "3ade6f6d350532422bf9454d8bd5bef90a8ebf3e5621ae0c7b8b3ae8acb4b7f5",
+    "lastUpdated": "2025-12-12T03:54:14.863397+00:00",
+    "menuHash": "ead98921d7b39c0f62e8a971fecd4aca2c259aa23143dbd8ad8f918e9c19f9b9",
     "menu": [
-        {
-            "date": "2025-12-10",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Gemici Çorba"
-                    },
-                    {
-                        "name": "Julyen Kebap (parmak patates garni)"
-                    },
-                    {
-                        "name": "Havuç Salata"
-                    },
-                    {
-                        "name": "Brownie"
-                    },
-                    {
-                        "name": "Beytepe Lokma Tatlısı"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-11",
             "calories": 1040,
@@ -79,6 +51,9 @@
                     },
                     {
                         "name": "* Etsiz Bezelye"
+                    },
+                    {
+                        "name": "* Beytepe Etsiz Kuru Fasulye"
                     }
                 ],
                 "aksam": null
