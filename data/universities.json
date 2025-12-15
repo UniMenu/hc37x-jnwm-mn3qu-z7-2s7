@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Gazi Üniversitesi",
+    "campuses": [
+      {
+        "name": "Merkez (Teknoloji)",
+        "departments": ["Teknoloji Fakültesi", "Spor Bilimleri", "Fen Fakültesi"]
+      },
+      {
+        "name": "Mühendislik (Maltepe)",
+        "departments": ["Mühendislik Fakültesi", "Mimarlık Fakültesi"]
+      },
+      {
+        "name": "Beşevler (Eğitim)",
+        "departments": ["Gazi Eğitim Fakültesi", "Eczacılık Fakültesi"]
+      }
+    ]
+  },
+  {
+    "name": "Hacettepe Üniversitesi",
+    "campuses": [
+      {
+        "name": "Beytepe",
+        "departments": ["Mühendislik Fakültesi", "Edebiyat Fakültesi", "İİBF"]
+      },
+      {
+        "name": "Sıhhiye",
+        "departments": ["Tıp Fakültesi", "Diş Hekimliği", "Eczacılık"]
+      }
+    ]
+  }
+]
