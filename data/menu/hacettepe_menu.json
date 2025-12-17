@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-16T03:55:13.483307+00:00",
-    "menuHash": "932e0b213793d880afb2d49216eddbe3eba59ae29cd4a5c491a9a7621ac26d5f",
+    "lastUpdated": "2025-12-17T03:51:25.672713+00:00",
+    "menuHash": "8cf116db837d9a378fc45006e52d126c33a1fd63ba037501bf15bdc071f9307c",
     "menu": [
-        {
-            "date": "2025-12-15",
-            "calories": 1255,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Maraş Çorba"
-                    },
-                    {
-                        "name": "Sebze Öğreten"
-                    },
-                    {
-                        "name": "Kıymalı Spagetti"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Türlü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-16",
             "calories": 0,
@@ -111,7 +86,7 @@
         },
         {
             "date": "2025-12-19",
-            "calories": 1224,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -126,6 +101,9 @@
                     },
                     {
                         "name": "Hoşaf"
+                    },
+                    {
+                        "name": "Beytepe Meyve"
                     },
                     {
                         "name": "* Etsiz Kereviz"
@@ -801,31 +779,6 @@
                     },
                     {
                         "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-16",
-            "calories": 1267,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "name": "Tavuk Pirzola (parmak patates garni)"
-                    },
-                    {
-                        "name": "Kır. Lahana Havuç Salata"
-                    },
-                    {
-                        "name": "Sütlaç"
-                    },
-                    {
-                        "name": "* Etsiz Kavata Dolma"
                     }
                 ],
                 "aksam": null
