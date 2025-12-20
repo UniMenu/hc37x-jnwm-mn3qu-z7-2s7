@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-19T03:54:33.747774+00:00",
-    "menuHash": "0b5704bf282da93e7772515972f7e796efaeffec1399ccb6548c8548d238d0b7",
+    "lastUpdated": "2025-12-20T03:45:06.525099+00:00",
+    "menuHash": "24f6a6e6324fd305d59d2f47837880b56105c3b171ef5319229ca270db11c81a",
     "menu": [
         {
             "date": "2025-12-01",
@@ -394,7 +394,7 @@
                         "name": "Tas Kebabı"
                     },
                     {
-                        "name": "Erişte"
+                        "name": "Soslu Makarna"
                     },
                     {
                         "name": "Tahin Helva"
@@ -494,7 +494,7 @@
                         "name": "Ekşili Köfte"
                     },
                     {
-                        "name": "Soslu Makarna"
+                        "name": "Erişte"
                     },
                     {
                         "name": "Meyve"
